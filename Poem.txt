@@ -1,6 +1,6 @@
 The Rainbow and the unicorn and the pony
 
-p
+this is the conflict line
 p
 o
 g
